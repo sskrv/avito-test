@@ -25,7 +25,9 @@ docker-compose up -d
 
 Для проверки проекта выполните скрипт:
 
-```./api_examples.sh```
+```bash
+./api_examples.sh
+```
 
 ## Лицензия
 
